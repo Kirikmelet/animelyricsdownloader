@@ -48,10 +48,10 @@ if __name__ == "__main__":
         LANG = 'jp'
     else:
         LANG = 'en'
-    if ARG.title != True:
-        TITLE = False
-    else:
+    if ARG.title:
         TITLE = True
+    else:
+        TITLE = False
     ARTIST_T = ARG.artist
     SONG_T = ARG.song
     T = str(SONG_T)
