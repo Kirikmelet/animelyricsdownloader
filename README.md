@@ -27,15 +27,14 @@ aldl [-h] -s SONG [-a ARTIST] [-l {english,en,japanese,jp}] -T
 Install animelyrics by colorfusion
 ([https://github.com/colorfusion/animelyrics/])
 
-```pip install animelyrics
-```
+pip install animelyrics
+
 
 ### On Windows
 
 Use command
 
-```python aldl.py
-```
+`python aldl.py`
 
 to execute
 
@@ -46,21 +45,19 @@ then move it to somewhere in your PATH
 
 ### On Linux
 
-execute ```install.py```
+execute `install.py`
 
 OR
 
-```chmod 755 aldl.py
-```
-```sudo cp aldl.py /usr/bin/aldl
-```
+`chmod 755 aldl.py`
+`sudo cp aldl.py /usr/bin/aldl`
 
 
-# This repo's license
+# This Repo's License
 
 Refer to LICENSE.md
 
-# animelyrics's License
+# Animelyrics's License
 
 
 Copyright (c) 2019 Melvin Yeo
