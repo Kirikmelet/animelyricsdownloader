@@ -55,7 +55,10 @@ OR
 
 # This Repo's License
 
+All other code *_except_* the animelyrics module is licensed under WTFPL
+
 Refer to LICENSE.md
+
 
 # Animelyrics's License
 
