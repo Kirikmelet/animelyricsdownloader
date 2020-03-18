@@ -27,7 +27,7 @@ aldl [-h] -s SONG [-a ARTIST] [-l {english,en,japanese,jp}] -T
 Install animelyrics by colorfusion
 ([https://github.com/colorfusion/animelyrics/])
 
-pip install animelyrics
+`pip install animelyrics`
 
 
 ### On Windows
